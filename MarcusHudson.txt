@@ -1,0 +1,13 @@
+This is Marcus' Journal, if you are reading this I question why you are here, unless you are Mr. Ben-Yaakov. 
+
+Journal Entry #0 DATE
+This is an example entry of my journal so I don't have to worry later about making it look fancy, or something like that. 
+
+Journal Entry #1 4/18/2019
+I am special, that is not exactly the best thing in the world. I will likely need to rewrite the code due to my lack of organization
+in writing the first project of the game. The beginning of the game works just fine, however it's not exactly set up properly
+and it's hard to follow. This will take some time likely, I might work on something this weekend to try and improve my own
+writing/code. The variables are just letters, there's no function cause I didn't really know about them back then, and the
+skip line part has potato next to it all the time. I think that's just a placeholder, however it distracts me. I should write more
+journal stuff, this is kind of fun talking to myself and I get to vent about everything I dislike in what I'm doing. 
+Today, Marcus learned how to critique himself. What an achievement. 
